@@ -1,0 +1,6 @@
+Ordering Pizza
+
+1.Open Domino's app
+2.Select any pizza 
+3.Enter location
+4.Make payment
